@@ -1,9 +1,9 @@
 ### Hi there 👋
-## 💻 I'm Security Engineer and Infra structure manager 👋
-## 💻 My major is information security
-## 🌱 I’m currently learning Docker, Kubernetes
+### 💻 I'm Security Engineer and Infra structure manager 👋
+### 💻 My major is information security
+### 🌱 I’m currently learning Docker, Kubernetes
 ##  💌 How to reach me: ssen.hailey@gmail.com
-## 🎁 I'm moving to the UK next year.(January,2023)
+## 🎁 I'm moving to the London next year.(January,2023)
 
 
 <!--
