@@ -3,7 +3,7 @@
 ### 💻 My major is information security
 ### 🌱 I’m currently learning Docker, Kubernetes
 ###  💌 How to reach me: ssen.hailey@gmail.com
-### 🎁 I will moving to the London next year.(January,2023)
+### 🎁 I will moving to London next year(Feburary,2023)
 
 
 <!--
